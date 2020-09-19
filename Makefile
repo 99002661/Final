@@ -33,7 +33,7 @@ run:$(PROJECT_NAME)
 
 # Document the code using Doxygen
 doc:
-	make -C ./documentation
+	make -C 
 
 # Build and run the unit tests
 test:$(BUILD)
